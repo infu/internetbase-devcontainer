@@ -1,6 +1,0 @@
-{
-  "name": "internetbase",
-  "build": {
-    "dockerfile": "Dockerfile"
-  }
-}
