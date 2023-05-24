@@ -1,7 +1,7 @@
 
-# InternetBase (ic)
+# Internet Computer (ic)
 
-Internet Base devcontainer for the Internet Computer
+Develop decentralized web3 dapps
 
 ## Options
 
