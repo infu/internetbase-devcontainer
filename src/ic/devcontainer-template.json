@@ -1,8 +1,8 @@
 {
   "id": "ic",
   "version": "1.0.0",
-  "name": "InternetBase",
-  "description": "Internet Base devcontainer for the Internet Computer",
+  "name": "Internet Computer",
+  "description": "Develop decentralized web3 dapps",
   "documentationURL": "https://github.com/vvv-interactive/ibdev/",
   "licenseURL": "https://github.com/vvv-interactive/ibdev/",
   "options": {},
