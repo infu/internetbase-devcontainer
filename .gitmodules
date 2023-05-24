@@ -1,3 +1,3 @@
-[submodule "src/ib"]
+[submodule "src/ic"]
 	path = src/ic
 	url = https://github.com/infu/internet-base-vsc-examples
