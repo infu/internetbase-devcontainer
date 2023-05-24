@@ -1,7 +1,7 @@
 name: "Smoke test"
 inputs:
   template:
-    description: "Template to test"
+    description: "IB template"
     required: true
 
 runs:
